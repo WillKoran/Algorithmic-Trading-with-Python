@@ -1,4 +1,4 @@
-#Algorithmic Trading with IEX CLOUD and Python
+# Algorithmic Trading with IEX CLOUD and Python
 The three projects included utilize python for algorithmic trading. I created these projects by following along with developer Nick McCullum's YouTube [Tutorial.](https://www.youtube.com/watch?v=xfzGZB4HhEE&feature=youtu.be) .  The projects come from templates posted to his [repo](https://github.com/nickmccullum/algorithmic-trading-python). I filled in the templates by following along with the course. The three projects consist of an Equal-Weight S&P 500 Index Fund, a Quantitative Momentum Investing strategy and a a Quantitative Momentum Investing Strategy. 
 
 ### Building An Equal-Weight S&P 500 Index Fund
