@@ -9,7 +9,7 @@ The goal of this project was to create an equal-weight version of the S&P 500 in
 ### Building A Quantitative Momentum Investing Strategy
 <hr>
 This project is a quantitative momentum strategy that determines how many of the top 50 best stocks to buy based on their individual high-quality moment scores, which indicates they have increased in price the most over a certain time frame. Similar to the previous project the output is an xml file which shows how many of each to buy, shown below.
-
+[Project2](project2.png)
 ### Building A Quantitative Value Investing Strategy
 <hr>
 This project is a quantitative value strategy that decides how many of the top 50 best stocks to buy according to their robust value scores, which indicates how the cost relates to the value of the business.
