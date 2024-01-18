@@ -4,7 +4,7 @@ The three projects included utilize python for algorithmic trading. I created th
 ### Building An Equal-Weight S&P 500 Index Fund
 <hr>
 The goal of this project was to create an equal-weight version of the S&P 500 index fund. As an input the project takes the value of a portfolio and tells the user how man shares of each stock in the S&P 500 they should buy in order to produce an equal-weight version. As an output this script exports an xml file with the index, as shown below.
-
+![Project 1 Output](equalweightS&P.png)
 
 ### Building A Quantitative Momentum Investing Strategy
 <hr>
